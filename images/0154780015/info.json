@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 42,
+    "height" : 56
+  }, {
+    "width" : 83,
+    "height" : 111
+  }, {
+    "width" : 165,
+    "height" : 222
+  }, {
+    "width" : 330,
+    "height" : 443
+  }, {
+    "width" : 660,
+    "height" : 885
+  }, {
+    "width" : 1319,
+    "height" : 1770
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1319,
+  "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/0154780015",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1770
+}
