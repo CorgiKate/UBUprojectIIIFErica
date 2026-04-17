@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://CorgiKate.github.io/UBUprojectIIIFErica/manifests/PresdefErica.json",
     "label" : null
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://CorgiKate.github.io/UBUprojectIIIFErica/manifests/manifestkaartvoorexhibit.json",
+    "label" : "[Click to edit label]"
   } ]
 }
