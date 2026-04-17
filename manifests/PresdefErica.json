@@ -1,0 +1,126 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://CorgiKate.github.io/UBUprojectIIIFErica/manifests/PresdefErica.json",
+  "@type" : "sc:Manifest",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[The name Erica stands for...]",
+    "@language" : "en"
+  } ],
+  "license" : "public domain",
+  "attribution" : "[Erica is a small village in county Drenthe. Erica originated around 1863 as a buckwheat colony on the higher sandy soils, as a stopover on the road from Schoonebeek to Emmen.Erica is a small village in county Drenthe. Erica originated around 1863 as a buckwheat colony on the higher sandy soils, as a stopover on the road from Schoonebeek to Emmen. It is also a fanfare in Austerlitz the village I live in. And a Bungalow Park “Erica Where peace, space, and nature come together!” also in Austerlitz. And of course a plant ]",
+  "sequences" : [ {
+    "@id" : "http://6d93229f-2231-4b0f-8206-af3880816ae7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://fe28e1d6-0c3c-43d7-9933-746a2a8f43ed",
+      "@type" : "sc:Canvas",
+      "label" : "zoomin Erica village in Drenthe",
+      "height" : 718,
+      "width" : 1492,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ae1bda0f-e8a1-43ad-8fc5-4bbe9c6ff7bb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 718,
+          "width" : 1492
+        },
+        "on" : "http://fe28e1d6-0c3c-43d7-9933-746a2a8f43ed"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://953e6c65-b809-4520-92b5-d38177368d50",
+      "@type" : "sc:Canvas",
+      "label" : "poster fanfare Erica",
+      "height" : 504,
+      "width" : "367",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cd89cf55-5976-4d07-bf37-9dcd24ee1571",
+        "@type" : "It is also a fanfare in Austerlitz the village I live in.",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 504,
+          "width" : 367
+        },
+        "on" : "http://953e6c65-b809-4520-92b5-d38177368d50"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cb0f61ab-bedb-449c-bd13-2af33353ddc6",
+      "@type" : "sc:Canvas",
+      "label" : "bungalowpark",
+      "height" : 802,
+      "width" : 1279,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e3d25148-c60a-4487-8816-a4a3e8613098",
+        "@type" : "And a Bungalow Park “Erica Where peace, space, and nature come together!” also in Austerlitz.",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 802,
+          "width" : 1279
+        },
+        "on" : "http://cb0f61ab-bedb-449c-bd13-2af33353ddc6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2b8c5cde-2352-42d7-9a1f-f30c4e796bc3",
+      "@type" : "sc:Canvas",
+      "label" : "heideplant",
+      "height" : 600,
+      "width" : 600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a70f89da-49dd-49b3-bc7d-48934dff0e47",
+        "@type" : "And of course a plant",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 600,
+          "width" : 600
+        },
+        "on" : "http://2b8c5cde-2352-42d7-9a1f-f30c4e796bc3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
