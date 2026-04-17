@@ -88,6 +88,411 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "zoominErica"
+                ]
+            },
+            "height": 718,
+            "width": 1492,
+            "items": [
+                {
+                    "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 47,
+                                                "height": 23
+                                            },
+                                            {
+                                                "width": 94,
+                                                "height": 45
+                                            },
+                                            {
+                                                "width": 187,
+                                                "height": 90
+                                            },
+                                            {
+                                                "width": 373,
+                                                "height": 180
+                                            },
+                                            {
+                                                "width": 746,
+                                                "height": 359
+                                            },
+                                            {
+                                                "width": 1492,
+                                                "height": 718
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1492,
+                                        "@id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 718,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoominErica/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "erica-darleyensis"
+                ]
+            },
+            "height": 600,
+            "width": 600,
+            "items": [
+                {
+                    "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 38
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 75
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 150
+                                            },
+                                            {
+                                                "width": 300,
+                                                "height": 300
+                                            },
+                                            {
+                                                "width": 600,
+                                                "height": 600
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 600,
+                                        "@id": "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 600,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://corgikate.github.io/UBUprojectIIIFErica/images/erica-darleyensis/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bungalowparkErica"
+                ]
+            },
+            "height": 802,
+            "width": 1279,
+            "items": [
+                {
+                    "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 40,
+                                                "height": 26
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 201
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 401
+                                            },
+                                            {
+                                                "width": 1279,
+                                                "height": 802
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1279,
+                                        "@id": "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 802,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoomuitdorpErica/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "zoomuitdorpErica"
+                ]
+            },
+            "height": 784,
+            "width": 1462,
+            "items": [
+                {
+                    "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoomuitdorpErica/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoomuitdorpErica/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoomuitdorpErica/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 46,
+                                                "height": 25
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 49
+                                            },
+                                            {
+                                                "width": 183,
+                                                "height": 98
+                                            },
+                                            {
+                                                "width": 366,
+                                                "height": 196
+                                            },
+                                            {
+                                                "width": 731,
+                                                "height": 392
+                                            },
+                                            {
+                                                "width": 1462,
+                                                "height": 784
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1462,
+                                        "@id": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoomuitdorpErica",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 784,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://corgikate.github.io/UBUprojectIIIFErica/images/zoomuitdorpErica/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "fanfareErica"
+                ]
+            },
+            "height": 504,
+            "width": 367,
+            "items": [
+                {
+                    "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 12,
+                                                "height": 16
+                                            },
+                                            {
+                                                "width": 23,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 46,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 92,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 367,
+                                                "height": 504
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 367,
+                                        "@id": "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 504,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://corgikate.github.io/UBUprojectIIIFErica/images/fanfareErica/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

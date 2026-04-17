@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 40,
+    "height" : 26
+  }, {
+    "width" : 80,
+    "height" : 51
+  }, {
+    "width" : 160,
+    "height" : 101
+  }, {
+    "width" : 320,
+    "height" : 201
+  }, {
+    "width" : 640,
+    "height" : 401
+  }, {
+    "width" : 1279,
+    "height" : 802
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1279,
+  "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/bungalowparkErica",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 802
+}

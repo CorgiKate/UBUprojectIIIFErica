@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 46,
+    "height" : 25
+  }, {
+    "width" : 92,
+    "height" : 49
+  }, {
+    "width" : 183,
+    "height" : 98
+  }, {
+    "width" : 366,
+    "height" : 196
+  }, {
+    "width" : 731,
+    "height" : 392
+  }, {
+    "width" : 1462,
+    "height" : 784
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1462,
+  "@id" : "https://corgikate.github.io/UBUprojectIIIFErica/images/zoomuitdorpErica",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 784
+}
